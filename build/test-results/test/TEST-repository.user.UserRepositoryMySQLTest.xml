@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="repository.user.UserRepositoryMySQLTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-03-24T09:46:46" hostname="DESKTOP-URN5C0M" time="0.067">
+  <properties/>
+  <testcase name="delete" classname="repository.user.UserRepositoryMySQLTest" time="0.011"/>
+  <testcase name="update" classname="repository.user.UserRepositoryMySQLTest" time="0.012"/>
+  <testcase name="findByUsernameAndPassword" classname="repository.user.UserRepositoryMySQLTest" time="0.011"/>
+  <testcase name="getAllUsers" classname="repository.user.UserRepositoryMySQLTest" time="0.003"/>
+  <testcase name="save" classname="repository.user.UserRepositoryMySQLTest" time="0.005"/>
+  <testcase name="getUserByName" classname="repository.user.UserRepositoryMySQLTest" time="0.01"/>
+  <testcase name="getUserById" classname="repository.user.UserRepositoryMySQLTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="services.user.management.AdminManagerServiceMySQLTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-03-24T09:46:46" hostname="DESKTOP-URN5C0M" time="0.066">
+  <properties/>
+  <testcase name="deleteEmployee" classname="services.user.management.AdminManagerServiceMySQLTest" time="0.013"/>
+  <testcase name="getAllEmployees" classname="services.user.management.AdminManagerServiceMySQLTest" time="0.029"/>
+  <testcase name="updateEmployee" classname="services.user.management.AdminManagerServiceMySQLTest" time="0.015"/>
+  <testcase name="createEmployee" classname="services.user.management.AdminManagerServiceMySQLTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

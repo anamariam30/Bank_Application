@@ -1,0 +1,18 @@
+services/account/AccountServiceMySQLTest.java
+ services.account.AccountServiceMySQLTest
+services/client/ClientServiceMySQLTest.java
+ services.client.ClientServiceMySQLTest
+repository/account/AccountRepositoryMySQLTest.java
+ repository.account.AccountRepositoryMySQLTest
+repository/security/RightsRolesRepositoryMySQLTest.java
+ repository.security.RightsRolesRepositoryMySQLTest
+repository/activity/ActivityRepositoryMySQLTest.java
+ repository.activity.ActivityRepositoryMySQLTest
+repository/user/UserRepositoryMySQLTest.java
+ repository.user.UserRepositoryMySQLTest
+services/user/management/AdminManagerServiceMySQLTest.java
+ services.user.management.AdminManagerServiceMySQLTest
+repository/client/ClientRepositoryMySQLTest.java
+ repository.client.ClientRepositoryMySQLTest
+services/user/authentication/AuthenticationServiceMySQLTest.java
+ services.user.authentication.AuthenticationServiceMySQLTest

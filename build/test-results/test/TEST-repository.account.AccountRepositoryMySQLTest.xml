@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="repository.account.AccountRepositoryMySQLTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-03-24T09:46:46" hostname="DESKTOP-URN5C0M" time="0.147">
+  <properties/>
+  <testcase name="findClientAccount" classname="repository.account.AccountRepositoryMySQLTest" time="0.048"/>
+  <testcase name="findAccountById" classname="repository.account.AccountRepositoryMySQLTest" time="0.018"/>
+  <testcase name="addAccountToClient" classname="repository.account.AccountRepositoryMySQLTest" time="0.015"/>
+  <testcase name="deleteAccountFromClient" classname="repository.account.AccountRepositoryMySQLTest" time="0.018"/>
+  <testcase name="deleteAccount" classname="repository.account.AccountRepositoryMySQLTest" time="0.012"/>
+  <testcase name="save" classname="repository.account.AccountRepositoryMySQLTest" time="0.003"/>
+  <testcase name="findAccountByIdNumber" classname="repository.account.AccountRepositoryMySQLTest" time="0.013"/>
+  <testcase name="updateAccount" classname="repository.account.AccountRepositoryMySQLTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Wed Mar 24 11:46:45 EET 2021 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+]]></system-err>
+</testsuite>

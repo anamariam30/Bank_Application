@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="services.account.AccountServiceMySQLTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-03-24T09:46:46" hostname="DESKTOP-URN5C0M" time="0.103">
+  <properties/>
+  <testcase name="transferMoney" classname="services.account.AccountServiceMySQLTest" time="0.019"/>
+  <testcase name="deleteAccount" classname="services.account.AccountServiceMySQLTest" time="0.015"/>
+  <testcase name="getAccount" classname="services.account.AccountServiceMySQLTest" time="0.015"/>
+  <testcase name="processBill" classname="services.account.AccountServiceMySQLTest" time="0.016"/>
+  <testcase name="createAccount" classname="services.account.AccountServiceMySQLTest" time="0.014"/>
+  <testcase name="updateAccount" classname="services.account.AccountServiceMySQLTest" time="0.011"/>
+  <testcase name="getAccountByIdNumber" classname="services.account.AccountServiceMySQLTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

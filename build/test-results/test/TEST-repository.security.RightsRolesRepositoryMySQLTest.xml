@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="repository.security.RightsRolesRepositoryMySQLTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-03-24T09:46:46" hostname="DESKTOP-URN5C0M" time="0.13">
+  <properties/>
+  <testcase name="findRightByTitle" classname="repository.security.RightsRolesRepositoryMySQLTest" time="0.012"/>
+  <testcase name="findRoleByTitle" classname="repository.security.RightsRolesRepositoryMySQLTest" time="0.013"/>
+  <testcase name="addRight" classname="repository.security.RightsRolesRepositoryMySQLTest" time="0.007"/>
+  <testcase name="addRole" classname="repository.security.RightsRolesRepositoryMySQLTest" time="0.006"/>
+  <testcase name="addRoleRight" classname="repository.security.RightsRolesRepositoryMySQLTest" time="0.005"/>
+  <testcase name="updateRoleToUser" classname="repository.security.RightsRolesRepositoryMySQLTest" time="0.024"/>
+  <testcase name="findRightsForRole" classname="repository.security.RightsRolesRepositoryMySQLTest" time="0.021"/>
+  <testcase name="findRoleForUser" classname="repository.security.RightsRolesRepositoryMySQLTest" time="0.02"/>
+  <testcase name="addRoleToUser" classname="repository.security.RightsRolesRepositoryMySQLTest" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

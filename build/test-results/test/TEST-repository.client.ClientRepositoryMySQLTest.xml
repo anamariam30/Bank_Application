@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="repository.client.ClientRepositoryMySQLTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-03-24T09:46:46" hostname="DESKTOP-URN5C0M" time="0.03">
+  <properties/>
+  <testcase name="findClientByName" classname="repository.client.ClientRepositoryMySQLTest" time="0.007"/>
+  <testcase name="updateClient" classname="repository.client.ClientRepositoryMySQLTest" time="0.01"/>
+  <testcase name="findAllClient" classname="repository.client.ClientRepositoryMySQLTest" time="0.003"/>
+  <testcase name="save" classname="repository.client.ClientRepositoryMySQLTest" time="0.003"/>
+  <testcase name="findClientById" classname="repository.client.ClientRepositoryMySQLTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="repository.activity.ActivityRepositoryMySQLTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-24T09:46:46" hostname="DESKTOP-URN5C0M" time="0.011">
+  <properties/>
+  <testcase name="addActivity" classname="repository.activity.ActivityRepositoryMySQLTest" time="0.007"/>
+  <testcase name="getActivities" classname="repository.activity.ActivityRepositoryMySQLTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
